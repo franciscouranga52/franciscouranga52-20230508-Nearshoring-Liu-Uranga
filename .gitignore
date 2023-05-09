@@ -5,6 +5,11 @@ __pycache__/
 
 # C extensions
 *.so
+## data files to ignore 
+*.csv 
+*.xlsx 
+*.zip
+*..DS_store
 
 # Distribution / packaging
 .Python
