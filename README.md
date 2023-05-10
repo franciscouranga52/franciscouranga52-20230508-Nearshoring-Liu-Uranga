@@ -3,4 +3,4 @@ Project on the economic impact of reshoring and nearshoring on both sides of the
 
 Data available [here](https://drive.google.com/drive/folders/18n6b_GtnB--IV-MfSQsNmnC6cSi4Kef4?usp=share_link)
 
-Sourse: [INEGI (Mexico)](https://www.inegi.org.mx/app/indicadores/?tm=0&t=1010#D1010)
+Source: [INEGI (Mexico)](https://www.inegi.org.mx/app/indicadores/?tm=0&t=1010#D1010)
